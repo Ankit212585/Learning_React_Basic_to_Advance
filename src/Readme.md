@@ -305,6 +305,4 @@ React-Context.
    return the new state.
 4. Immutable:- State is immutable; every change results in a new state
    object
-5. This different from UseReducer Hook.
-
-
+5. This different from UseReducer Hook

@@ -1,0 +1,73 @@
+h1 {
+    font-weight: 600;
+
+}
+
+input {
+    width: 80%;
+    outline: none;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    padding: 10px 20px;
+
+}
+
+.todo-container {
+    margin-top: 50px;
+    display: grid;
+    gap: 30px;
+}
+
+button {
+    width: 100px;
+}
+
+.ourCal {
+    padding: 20px 0px;
+    max-width: 400px;
+    display: grid;
+    gap: 10px;
+    margin-top: 50px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 10px;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.buttons {
+    padding: 10px;
+    background: black;
+    color: white;
+    margin: 5px;
+    font-weight: 500;
+}
+
+.container {
+    max-width: 600px;
+    border: 1px solid black;
+}
+
+.Container {
+    display: flex;
+    justify-content: center;
+
+}
+
+.Container-1 {
+    display: grid;
+    width: 600px;
+    gap: 10px;
+    margin: 50px 0px;
+    padding: 10px 20px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.buy-btn {
+    float: right;
+    background: teal;
+    color: white;
+}
